@@ -26,6 +26,7 @@ p.heading {
 
 strong {
     font-weight: bold !important;
+    line-height: 40px;
 }
 
 html{
@@ -405,7 +406,7 @@ section, footer{
 
 #corp p.margin_share{
     text-align: center;
-    top: 165px;
+    top: 145px;
     font-size: 28px;
     width: 100%;
     font-weight: bold;
@@ -413,9 +414,10 @@ section, footer{
 
 #corp p.details {
     text-align: left;
-    line-height: 27px;
-    top: 215px;
+    line-height: 24px;
+    top: 174px;
     width: 100%;
+    font-size: 16px;
 }
 
 #impress #margin_share{
