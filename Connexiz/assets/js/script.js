@@ -17,8 +17,7 @@ $(function(){
 
 setTimeout(function(){ 
 
-$('span.transi').css({top       : 100,
-    transition : 'opacity 5s ease-in-out',
+$('span.transi').css({top       : 200,   transition : 'opacity 5s ease-in-out'
 });
 
 }, 3000);
