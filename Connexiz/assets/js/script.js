@@ -21,7 +21,7 @@ $('.arrow').click(function () {
 
 
 
-    if(window.location.href.indexOf("margin_share") > -1 || window.location.href.indexOf("immigration") > -1 || || window.location.href.indexOf("corp") > -1 ) {
+    if(window.location.href.indexOf("margin_share") > -1 || window.location.href.indexOf("immigration") > -1 || window.location.href.indexOf("corp") > -1 ) {
        
  
 	$('#corp b').css({'margin-top':'3.5px','transition-delay':'1.5s' });
