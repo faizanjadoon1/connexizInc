@@ -17,7 +17,7 @@ $(function(){
 
 
 
-$(document).ready(function () {
+$('.arrow').click(function () {
     if(window.location.href.indexOf("corp") > -1) {
        
  setTimeout(function(){
