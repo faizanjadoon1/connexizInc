@@ -17,19 +17,16 @@ $(function(){
 
 
 
-$(document).ready(function () {
+$('.arrow').click(function () {
     if(window.location.href.indexOf("corp") > -1) {
        
- setTimeout(function(){
-
-
-
-
-
+ 
 $('#corp b').css({'margin-top':'3.5px','transition-delay':'1.5s' });
 
-
-	 }, 1000);
+  
+  }else{
+  
+ $('#corp b').css({'margin-top':'-63px','transition-delay':'0.5s' });
   
   }
 });
