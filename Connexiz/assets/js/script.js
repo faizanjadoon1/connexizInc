@@ -23,7 +23,10 @@ $(document).ready(function () {
  setTimeout(function(){
 
 
-	 alert("Hello");
+$('.scaling').css({
+transform: scale(2.7),
+     transition-delay: 2.5s,
+});
 
 
 
