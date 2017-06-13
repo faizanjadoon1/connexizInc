@@ -411,6 +411,13 @@ section, footer{
     width: 100%;
     font-weight: bold;
 }
+#corp p.foot{
+    text-align: center;
+    top: 165px;
+    font-size: 28px;
+    width: 100%;
+    font-weight: bold;
+}
 
 #corp p.details {
     text-align: left;
@@ -477,13 +484,6 @@ section, footer{
 }
 
 #singularity p.margin_share{
-    text-align: center;
-    top: 165px;
-    font-size: 28px;
-    width: 100%;
-    font-weight: bold;
-}
-#singularity p.foot{
     text-align: center;
     top: 165px;
     font-size: 28px;
