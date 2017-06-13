@@ -285,6 +285,9 @@ section, footer{
     right: 174px;
     top: -15px;
 }
+#calendar p.heading {
+    left: -15% !important;
+}
 
 
 /*----------------------------
@@ -348,6 +351,10 @@ section, footer{
 #happyemp img {
     right: 67px;
     top: -30px;
+}
+
+#happyemp p.heading {
+    left: -15% !important;
 }
 
 #impress #immigration{
