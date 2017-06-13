@@ -13,7 +13,12 @@
 	General Styles
 --------------------------*/
 span.transi {
-    top: -100px;
+    transform: rotate(-10deg);
+    -webkit-transition-delay: 0.25s;
+    -moz-transition-delay: 0.25s;
+    -ms-transition-delay: 0.25s;
+    -o-transition-delay: 0.25s;
+    transition-delay: 0.25s;
 }
 p.heading {
     left: -37%;
