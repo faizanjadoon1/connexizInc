@@ -352,6 +352,9 @@ top:6% !important;
     top: 364px;
     width: 598px
 }
+p.A13 span:before {
+    content: '•';
+}
 
 #happyemp img {
     right: 67px;
