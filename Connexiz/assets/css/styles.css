@@ -12,6 +12,18 @@
 /*-------------------------
 	General Styles
 --------------------------*/
+
+p.heading {
+    left: -37%;
+    font: normal 44px/1.5 'PT Sans Narrow', sans-serif !important;
+    color: #444648 !important;
+    position: absolute !important;
+    z-index: 10 !important;
+    top: 2%;
+    width: 100%;
+    text-align: left;
+}
+
 strong {
     font-weight: bold !important;
 }
