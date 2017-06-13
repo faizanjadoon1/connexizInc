@@ -12,7 +12,10 @@
 /*-------------------------
 	General Styles
 --------------------------*/
-
+span.transi {
+    top: -100px;
+    position: absolute;
+}
 p.heading {
     left: -37%;
     font: normal 44px/1.5 'PT Sans Narrow', sans-serif !important;
