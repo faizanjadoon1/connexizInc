@@ -238,14 +238,14 @@ top:6% !important;
 }
 
 #connect p.A7{
-	left:51%;
+	left:55%;
 	margin-left:-181px;
     text-align: center;
     top: 376px;
     width: 490px;
 }
 #connect p.A6{
-	left:37%;
+	left:52%;
 	margin-left:-108px;
     text-align: left;
     top: 178px;
@@ -271,24 +271,24 @@ top:6% !important;
 #calendar h2{
 	left: 0;
     text-align: left;
-    top: 170px;
+    top: 270px;
 }
 
 #calendar p.A8{
     right: -88px;
-    top: 70px;
+    top: 146px;
     width: 472px;
 }
 
 #calendar p.A9{
 	left: 0;
-    top: 255px;
+    top: 341px;
     width: 480px;
 }
 
 #calendar img{
     right: 174px;
-    top: -15px;
+    top: 70px;
 }
 #calendar p.heading {
     left: -15% !important;
@@ -369,25 +369,25 @@ top:6% !important;
 #immigration h2{
     left: 17px;
     text-align: center;
-    top: 260px;
+    top: 330px;
     width: 100%;
 }
 
 #immigration p.A14{
     left: 137px;
-    top: 164px;
+    top: 237px;
     width: 621px;
 }
 
 #immigration p.A15{
     left: 72px;
-    top: 331px;
+    top: 391px;
     width: 621px;
 }
 
 #immigration img {
     right: 68px;
-    top: -50px;
+    top: 24px;
 }
 
 #impress #corp{
