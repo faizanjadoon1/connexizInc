@@ -19,17 +19,17 @@ $(function(){
 
 $('.arrow').click(function () {
 
-$('#corp b').css({'margin-top':'3.5px','transition-delay':'1.5s' });
 
-    if(window.location.href.indexOf("margin_share") > -1 || window.location.href.indexOf("immigration") > -1 ) {
+
+    if(window.location.href.indexOf("margin_share") > -1 || window.location.href.indexOf("immigration") > -1 || || window.location.href.indexOf("corp") > -1 ) {
        
  
-	$('#corp b').css({'margin-top':'-63px','transition-delay':'0.5s' });
+	$('#corp b').css({'margin-top':'3.5px','transition-delay':'1.5s' });
 
   
   }else{
 	  
-
+$('#corp b').css({'margin-top':'-63px','transition-delay':'0.5s' });
 
 
 }
