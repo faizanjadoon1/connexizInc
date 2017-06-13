@@ -19,7 +19,7 @@ $(function(){
 
 $('.arrow').click(function () {
 
-
+setTimeout(function(){ console.log(window.location.href); }, 1000);
 
     if(window.location.href.indexOf("margin_share") > -1 || window.location.href.indexOf("immigration") > -1 || window.location.href.indexOf("corp") > -1 ) {
        
