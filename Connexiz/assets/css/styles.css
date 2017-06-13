@@ -226,6 +226,10 @@ section, footer{
 	width: 560px;
 }
 
+#connect p.heading{
+top:6% !important;
+}
+
 #connect h2{
 	left: 0;
 	top: 305px;
