@@ -227,7 +227,8 @@ section, footer{
 
 #idea p.A5{
     text-align: justify;
-    top: 215px;
+    top: 228px;
+line-height:25px;
     width: 365px;
     left: -100px;
     font-size: 16px;
@@ -340,7 +341,7 @@ top:6% !important;
 }
 
 #dilevery p.A11{
-    left: 99px;
+    left: 157px;
     top: 364px;
     width: 598px
 }
@@ -371,7 +372,7 @@ top:6% !important;
 
 #happyemp p.A13{
     line-height: 30px;
-    left: 99px;
+    left: 199px;
     top: 364px;
     width: 598px
 }
