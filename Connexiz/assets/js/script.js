@@ -31,6 +31,10 @@ $('#corp b').css({'margin-top':'3.5px','transition-delay':'1.5s' });
 
 	 }, 1000);
   
+  }else{
+  
+	  $('#corp b').css({'margin-top':'-63px' });
+  
   }
 });
 
