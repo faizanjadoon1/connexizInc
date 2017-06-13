@@ -413,7 +413,8 @@ section, footer{
 }
 #corp p.foot{
     text-align: center;
-    top: 165px;
+    bottom: 35px;
+    left: 5%;
     font-size: 28px;
     width: 100%;
     font-weight: bold;
