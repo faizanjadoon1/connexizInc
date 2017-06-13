@@ -23,8 +23,8 @@ $(document).ready(function () {
  setTimeout(function(){
 
 
-$('.scaling').css('transform', 'scale(2.7)');
-$('.scaling').css('transition-delay', '2s');
+$('.scaling').css({transform: scale(2.7), transition-delay:2s, });
+
 
 
 
