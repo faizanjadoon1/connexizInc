@@ -14,10 +14,22 @@ $(function(){
 
 });
 
+
+
+
 $(document).ready(function () {
     if(window.location.href.indexOf("corp") > -1) {
-       alert("your url contains the name franky");
-    }
+       
+ setTimeout(function(){
+
+
+	 alert("Hello");
+
+
+
+	 }, 3000);
+  
+  }
 });
 
 
