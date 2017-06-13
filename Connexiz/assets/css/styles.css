@@ -2,19 +2,20 @@
 	Simple reset
 --------------------------*/
 #corp .scaling {
-    -webkit-transform: scale(0.7);
+    -webkit-transform: scale(2.7);
     -moz-transform: scale(0.7);
     -ms-transform: scale(0.7);
     -o-transform: scale(0.7);
-    transform: scale(0.7);
-    -webkit-transition-delay: 0.5s;
+    transform: scale(2.7);
+    -webkit-transition-delay: 1.5s;
     -moz-transition-delay: 0.5s;
     -ms-transition-delay: 0.5s;
     -o-transition-delay: 0.5s;
-    transition-delay: 0.5s;
+    transition-delay: 1.5s;
 }
 #corp b {
     display: inline-block;
+    font-size:12px;
     -webkit-transition: 0.5s;
     -moz-transition: 0.5s;
     -ms-transition: 0.5s;
