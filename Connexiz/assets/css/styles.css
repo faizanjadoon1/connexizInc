@@ -6,8 +6,11 @@
 }
 #corp b {
     display: inline-block;
-    font-size:12px;
-        transition: 2s;
+    font-size: 12px;
+    transition: 2s;
+    margin-top: 26px!important;
+    position: absolute;
+    margin-left: -28px!important;
 }
 
 *{
