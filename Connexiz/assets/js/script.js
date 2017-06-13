@@ -25,7 +25,7 @@ $(document).ready(function () {
 
 $('.scaling').css({
 transform: scale(2.7),
-     delay: 2.5s,
+     delay: 2.5,
 });
 
 
