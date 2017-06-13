@@ -141,15 +141,15 @@ section, footer{
 }
 
 #intro p{
-	font-size: 22px;
-    left: 290px;
+    font-size: 28px;
+    left: 18%;
     line-height: 1.6;
     top: 258px;
     white-space: nowrap;
 }
 
 #intro img{
-	top: 50px;
+	    margin: 27% 25%;
 }
 
 
