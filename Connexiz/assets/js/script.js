@@ -19,6 +19,8 @@ $(function(){
 
 $('.arrow').click(function () {
 
+alert(window.location.href);
+
     if(window.location.href.indexOf("corp") > -1) {
        
  
