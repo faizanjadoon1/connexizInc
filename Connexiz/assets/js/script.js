@@ -26,7 +26,7 @@ $(document).ready(function () {
 
 
 
-$('#corp b').css({'margin-top':'22px','transition-delay':'1s' });
+$('#corp b').css({'margin-top':'3.5px','transition-delay':'1.5s' });
 
 
 	 }, 1000);
