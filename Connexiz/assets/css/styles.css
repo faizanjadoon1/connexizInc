@@ -12,7 +12,9 @@
 /*-------------------------
 	General Styles
 --------------------------*/
-
+strong {
+    font-weight: bold !important;
+}
 
 html{
 	background:url('../img/bg.jpg') #fff;
