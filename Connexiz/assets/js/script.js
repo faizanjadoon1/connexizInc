@@ -23,14 +23,12 @@ $(document).ready(function () {
  setTimeout(function(){
 
 
-$('.scaling').css({
-transform: scale(2.7),
-     delay: 2.5,
-});
+$('.scaling').css('transform', 'scale(2.7)');
+$('.scaling').css('transition-delay', '2s');
 
 
 
-	 }, 3000);
+	 }, 1000);
   
   }
 });
