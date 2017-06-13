@@ -7,10 +7,11 @@
 #corp b {
     display: inline-block;
     font-size: 12px;
-    transition: 2s;
+    transition: 1s;
     margin-top: 26px!important;
     position: absolute;
     margin-left: -29.5px!important;
+    color: #ff0000;
 }
 
 *{
