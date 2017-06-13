@@ -20,7 +20,7 @@ $(function(){
 $('.arrow').click(function () {
 
 
-    if(window.location.href.indexOf("corp") == 0 ) {
+    if(window.location.href.indexOf("corp") < 0 ) {
        
  
 	$('#corp b').css({'margin-top':'-63px','transition-delay':'0.5s' });
