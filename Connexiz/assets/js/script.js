@@ -23,7 +23,7 @@ $(document).ready(function () {
  setTimeout(function(){
 
 
-$('.scaling').css({'transform': 'scale(2.7)', 'transition-delay':'1s' });
+
 
 
 $('#corp b').css({'margin-top':'22px','transition-delay':'1s' });
