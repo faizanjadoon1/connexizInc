@@ -16,12 +16,6 @@
 #corp b {
     display: inline-block;
     font-size:12px;
-     transform: scale(0.7);
-    -webkit-transition: 2.5s;
-    -moz-transition: 0.5s;
-    -ms-transition: 0.5s;
-    -o-transition: 0.5s;
-    transition: 2.5s;
 }
 
 *{
