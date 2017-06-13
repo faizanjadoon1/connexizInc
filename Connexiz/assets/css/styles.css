@@ -483,6 +483,13 @@ section, footer{
     width: 100%;
     font-weight: bold;
 }
+#singularity p.foot{
+    text-align: center;
+    top: 165px;
+    font-size: 28px;
+    width: 100%;
+    font-weight: bold;
+}
 
 #singularity p.details {
 	text-align: left;
@@ -496,7 +503,7 @@ section, footer{
     left: 5%;
     line-height: 42px;
     top: 477px;
-    font-size: 41px;
+    font-size: 31px;
     font-weight: bold;
     width: 100%;
 }
