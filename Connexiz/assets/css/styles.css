@@ -1,7 +1,7 @@
 /*-------------------------
 	Simple reset
 --------------------------*/
-#corp.active .scaling {
+#corp .scaling {
     -webkit-transform: scale(0.7);
     -moz-transform: scale(0.7);
     -ms-transform: scale(0.7);
