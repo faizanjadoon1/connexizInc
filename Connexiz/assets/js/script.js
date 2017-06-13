@@ -23,7 +23,7 @@ $('.arrow').click(function () {
     if(window.location.href.indexOf("corp") < 0 ) {
        
  
-	$('#corp b').css({'margin-top':'-63px','transition-delay':'0.5s' });
+	$('#corp b').css({'margin-top':'-63px'});
 
   
   }
@@ -38,7 +38,7 @@ setTimeout(function(){
   
   }
 
-}, 3000);
+}, 2000);
 
 
   
