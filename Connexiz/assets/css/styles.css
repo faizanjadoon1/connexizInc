@@ -333,7 +333,7 @@ section, footer{
 
 #happyemp img {
     right: 67px;
-    top: 0px;
+    top: -30px;
 }
 
 #impress #immigration{
@@ -431,7 +431,8 @@ section, footer{
     width: 100%;
 }
 #margin_share img {
-    left: 5%;
+    left: 9%;
+    top: 3%;
 }
 
 #impress #singularity{
