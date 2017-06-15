@@ -7,9 +7,9 @@
 #corp b {
 display: inline-block;
     font-size: 38px;
-    transition: 1.5s;
+    transition: 0.8s;
     position: absolute;
-    margin-left: -42.5px!important;
+    margin-left: -142px!important;
     color: #ff0000;
 }
 
