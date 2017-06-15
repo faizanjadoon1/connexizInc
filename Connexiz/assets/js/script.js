@@ -23,7 +23,7 @@ $('.arrow').click(function () {
     if(window.location.href.indexOf("corp") < 0 ) {
        
  
-	$('#corp b').css({'margin-top':'-142px','transition-delay':'0s'});
+	$('#corp b').css({'margin-top':'-262px','-webkit-transition-delay': '0s','-moz-transition-delay': '0s', '-ms-transition-delay': '0s','-o-transition-delay': '0s' , 'transition-delay':'0s'});
 
   
   }
@@ -31,9 +31,8 @@ $('.arrow').click(function () {
 setTimeout(function(){  
 
     if(window.location.href.indexOf("corp") > -1 ) {
-       
- 
-	$('#corp b').css({'margin-top':'3.5px','transition-delay':'0.8s' });
+     
+     $('#corp b').css({'margin-top':'3.5px','-webkit-transition-delay': '0.8s','-moz-transition-delay': '0.8s', '-ms-transition-delay': '0.8s','-o-transition-delay': '0.8s','transition-delay':'0.8s' });
 
   
   }
