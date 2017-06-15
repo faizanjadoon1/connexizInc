@@ -23,7 +23,7 @@ $('.arrow').click(function () {
     if(window.location.href.indexOf("corp") < 0 ) {
        
  
-	$('#corp b').css({'margin-top':'-63px','transition-delay':'0s'});
+	$('#corp b').css({'margin-top':'-142px','transition-delay':'0s'});
 
   
   }
@@ -33,12 +33,12 @@ setTimeout(function(){
     if(window.location.href.indexOf("corp") > -1 ) {
        
  
-	$('#corp b').css({'margin-top':'3.5px','transition-delay':'1.0s' });
+	$('#corp b').css({'margin-top':'3.5px','transition-delay':'0.8s' });
 
   
   }
 
-}, 2000);
+}, 1500);
 
 
   
